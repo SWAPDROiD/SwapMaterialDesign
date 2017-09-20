@@ -1,2 +1,2 @@
 # SwapMaterialDesign
-This app contain come material designs for Android 
+This app contain some material designs for Android 
